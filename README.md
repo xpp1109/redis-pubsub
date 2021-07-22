@@ -61,7 +61,7 @@
 
   回看窗口3：
 
-  ![回看窗口3](/Users/shizhenchao/Library/Application Support/typora-user-images/image-20210722142722528.png)
+  ![回看窗口3](https://raw.githubusercontent.com/xpp1109/images/main/uPic/image-20210722142722528.png)
 
   收到了两个channel的消息。
 
@@ -276,3 +276,7 @@
   消息也被正常接收。
 
 * 完结撒花~~~
+
+
+
+
